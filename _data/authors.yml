@@ -2,7 +2,7 @@
 
 Name Name:
   name        : "Jung-moh Chang"
-  uri         : "http://name.com"
+  uri         : # "http://name.com"
   email       : "jungmoh78@gmail.com"
   bio         : # "This is the first name."
   avatar      : # "bio-photo-2.jpg"
