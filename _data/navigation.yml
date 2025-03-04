@@ -11,7 +11,7 @@ main:
     url: /about/
 
   - title: "수업"
-    url: /teaching/
+    url: /current_teaching/
     
   # - title: "연구"
   #   url: /research/
