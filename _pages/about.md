@@ -20,7 +20,7 @@ redirect_from:
 
 **학력**
 
-University of California, Berekeley 경제학 박사(2007)
+University of California, Berkeley 경제학 박사(2007)
 
 서강대학교 경제학사(2001)
 
