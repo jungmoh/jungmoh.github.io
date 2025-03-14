@@ -12,13 +12,13 @@ redirect_from:
 2025년부터 독립연구자입니다. 전공은 미시이론입니다. 
 
 <br> <br/> 
-경력
+**경력**
 
 자본시장연구원 연구위원 : 2009.3-2022.12
 <br/> <br/> 
 
 
-학력 
+**학력**
 
 University of California, Berekeley 경제학 박사(2007)
 
