@@ -8,7 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<br/> <br/> 
 2025년부터 독립연구자입니다. 전공은 미시이론입니다. 
 
 <br> <br/> 
