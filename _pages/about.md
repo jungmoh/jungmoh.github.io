@@ -16,7 +16,7 @@ redirect_from:
 
 1997.3. - 2001. 2.	서강대학교 (경제학 학사)
     
-2001.9. - 2007. 5.	미국 UC Berkeley (경제학 박사)
+2001.9. - 2007. 5.	University of California, Berkeley (경제학 박사)
       
 2009.3. - 2022.11.	자본시장연구원 (연구위원)
 <br/> <br/> 
