@@ -73,7 +73,7 @@ author_profile: true
 
 ### 수업내용
 
-1주(3.10): 비협력적 게임의 개념; 전략형 게임의 정의와 우월전략 [슬라이드](https://www.dropbox.com/scl/fi/e1477s2vuaynuvbmxfmn0/Slide01_note.pdf?rlkey=hf89hjplflp49pzdd9rnb7631&st=llq4j3p1&dl=0)
+1주(3.10): 비협력적 게임의 개념; 전략형 게임의 정의와 우월전략 [슬라이드](https://github.com/jungmoh/jungmoh.github.io/blob/master/_teaching/Slide01_note.pdf?raw=true)
 
 2주(3.17): 순수전략; 내쉬균형; 혼합전략 [슬라이드]
 
