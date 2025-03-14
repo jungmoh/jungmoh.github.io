@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "ko-KR"
 # site_theme               : ""
-title                    : "Jung-moh Chang"
+title                    : "장정모"
 title_separator          : "-"
 name                     : &name "Jung-moh Chang"
 description              : &description "personal description"
