@@ -7,12 +7,9 @@ author_profile: true
 
 
 ## 미시경제학세미나 (ECN00075)
- <br/> 
-
+<br/> 
 ### [강의계획서](https://github.com/jungmoh/jungmoh.github.io/blob/8ade0e78be3e7728766e94942ccea2263894a61a/_teaching/Syllabus_2025Spring.pdf?raw=true)
-
- <br/> 
-
+<br/> 
 ### 수업 슬라이드 
 
 1주(3.10): [비협력적 게임의 개념; 전략형 게임](https://github.com/jungmoh/jungmoh.github.io/blob/master/_teaching/Slide01_note.pdf?raw=true)
