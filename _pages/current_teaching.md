@@ -7,11 +7,11 @@ author_profile: true
 
 
 ## 미시경제학세미나 (ECN00075)
-<br/> <br/> <br/> 
+ <br/> 
 
 ### [강의계획서](https://github.com/jungmoh/jungmoh.github.io/blob/8ade0e78be3e7728766e94942ccea2263894a61a/_teaching/Syllabus_2025Spring.pdf?raw=true)
 
-<br/> <br/> <br/> 
+ <br/> 
 
 ### 수업 슬라이드 
 
@@ -19,7 +19,7 @@ author_profile: true
 
 <br/> 
 
-
+------------------
 2주(3.17): 순수전략; 내쉬균형; 혼합전략 [슬라이드]
 
 3주(3.24): 응용사례 (I)
@@ -47,8 +47,6 @@ author_profile: true
 14주(6.16): 협조적 게임이론
 
 15주(6.23): 기말시험
-
-※수업계획은 진도에 따라 다소 변경될 수 있음.
 
 
 
