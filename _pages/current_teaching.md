@@ -14,7 +14,7 @@ author_profile: true
 
 ### 수업 슬라이드 
 
-3월 10일: [비협력적 게임의 개념; 전략형 게임](https://github.com/jungmoh/jungmoh.github.io/blob/master/_teaching/Slide01_note.pdf?raw=true)
+3월 10일: [수업안내; 독점기업(복습); 게임의 형태와 해](https://github.com/jungmoh/jungmoh.github.io/blob/master/_teaching/Slide01_note.pdf?raw=true)
 
 <br/> 
 
