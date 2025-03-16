@@ -18,6 +18,10 @@ author_profile: true
 
 <br/> 
 
+3월 17일: [수업용 슬라이드](https://github.com/jungmoh/jungmoh.github.io/blob/2138845e068bbbfba9a9a0f516ca0c792e16c463/_teaching/Slide02_note_250317.pdf?raw=true)
+
+
+<br/> 
 +++++++++++++++++
 
 2주(3.17): 순수전략; 내쉬균형; 혼합전략 [슬라이드]
