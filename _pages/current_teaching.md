@@ -18,6 +18,7 @@ author_profile: true
 
 3월 17일: [수업용 슬라이드](https://github.com/jungmoh/jungmoh.github.io/blob/2138845e068bbbfba9a9a0f516ca0c792e16c463/_teaching/Slide02_note_250317.pdf?raw=true)
 
+3월 24일: [수업용 슬라이드](https://github.com/jungmoh/jungmoh.github.io/blob/1591abd2fcda58cdfb7064f4e1a1945953be525d/_teaching/Slide03_note_250324.pdf?raw=true)
 
 <br/> 
 +++++++++++++++++
